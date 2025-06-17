@@ -1,2 +1,2 @@
 # Carbon-School-Ranks
-Appilcation that will help people can capture picture and analyze trash in picture  
+An application that helps calculate and track individual carbon footprint data using AI, and summarizes the information.
